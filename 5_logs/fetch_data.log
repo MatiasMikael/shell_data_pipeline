@@ -1,0 +1,4 @@
+2025-01-12 12:36:50 - Starting data fetch from https://public.api.avoimuusrekisteri.fi/open-data-register-notification
+2025-01-12 12:36:50 - Fetching data from https://public.api.avoimuusrekisteri.fi/open-data-register-notification...
+2025-01-12 12:36:55 - Data successfully fetched and saved to ./1_scripts/../2_data/open_registry_data.json
+2025-01-12 12:36:55 - Data fetch completed

@@ -1,0 +1,4 @@
+2025-01-12 12:38:33 - Starting JSON formatting
+2025-01-12 12:38:33 - Formatting data from ./1_scripts/../2_data/open_registry_data.json
+2025-01-12 12:38:35 - Data successfully formatted and saved to ./1_scripts/../3_results/formatted_data.json
+2025-01-12 12:38:35 - JSON formatting completed
